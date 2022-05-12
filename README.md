@@ -1,3 +1,13 @@
-Front page to showcase [markdown-cv](http://elipapa.github.io/markdown-cv/) functionality.
+---
+layout: cv
+title: Joel Shapiro
+---
 
-The theme for this page is [Solo](http://chibicode.github.io/solo)
+# Joel Shapiro
+Webbutvecklare, arkitekt
+
+## Testar
+
+rubriker
+
+
