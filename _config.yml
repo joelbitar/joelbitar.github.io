@@ -59,7 +59,7 @@ content:
       - layout: left
         title: DRP 
         sub_title: Värmeoptimering
-        caption: 2019 - 2021
+        caption: 2021 - 
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Webbaserat system för att modelera och räkna på rörsystem för radiatorer
           
-          Ett system byggt i <mark>Django</mark> med <mark>React</mark> där användare specificerar uppvärmingsystem, systemet kan då räkna ut vilka inställningar man ska ha på sina radiatorer för att på så sätt optimera uppvärmingen i huset. Några spännande utmaningar med detta var att få ett såpass tekniskt avancerat verktyg bli användarvänligt samt att optimera beräkningarna.
+          Ett system byggt i **Django** med **React**, driftsatt på **Google Cloud** där användare specificerar uppvärmingsystem, systemet kan då räkna ut vilka inställningar man ska ha på sina radiatorer för att på så sätt optimera uppvärmingen i huset. Några spännande utmaningar med detta var att få ett såpass tekniskt avancerat verktyg bli användarvänligt samt att optimera beräkningarna.
 
       - layout: left
         title: Divido
@@ -83,7 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Platform för att hitta passande lån åt kunder med så bra villkor som möligt
 
-          Primärt <mark>PHP</mark> och <mark>JavaScript</mark>, en del <mark>GoLang</mark> där jag byggde, designade och underhöll små och stora system i hela stacken
+          Primärt <mark>PHP</mark> och <mark>JavaScript</mark>, en del <mark>GoLang</mark> där jag byggde, designade och underhöll små och stora system i hela stacken. Många tajta deadlines, mikroservice arkitektur och ett bolag som växte mycket kraftigt och i ständig förändring där man måste städigt vara beredd att ta sig an nya problem.
       
       - layout: left
         title: Redpill Linpro
