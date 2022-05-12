@@ -44,14 +44,12 @@ github_username: joelbitar
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Profil 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hej!
+  Jag har sysslat med IT och webbutveckling i hela mitt yrkelsiv. Jag tycker om att hitta bra lösningar på svåra problem. Jag har jobbat med allt från projektledning, arkitektur, drift och framför allt utveckling där jag rör mig mellan både backend och frontend.
 
-  Mitt namn är Joel Shapiro, jag har sysslat med IT och webbutveckling sedan barnsben, tycker om att hitta bra lösningar på svåra problem. Jag har jobbat med allt från projektledning, arkitektur, utveckling på både backend och frontend samt en mindre mängd drift.
-
-  Om katten själv får välja blir det: <mark>Docker</mark> -> <mark>Django</mark> -> <mark>REST</mark> -> <mark>React</mark>
+  #  Om katten själv får välja blir det: <mark>Docker</mark> -> <mark>Django</mark> -> <mark>REST</mark> -> <mark>React</mark>
 
 content:
   - title: Projekt # Title for the section
