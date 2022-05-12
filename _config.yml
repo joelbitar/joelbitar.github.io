@@ -83,7 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Platform för att hitta passande lån åt kunder med så bra villkor som möligt
 
-          Primärt **PHP** och **JavaScript**, en del **GoLang** där jag byggde, designade och underhöll små och stora system i hela stacken. Många tajta deadlines, **microservice** arkitektur och ett bolag som växte mycket kraftigt och i ständig förändring där man måste städigt vara beredd att ta sig an nya problem.
+          Primärt **PHP** och **JavaScript**, en del **GoLang** där jag byggde, designade och underhöll små och stora system i hela stacken. Många tajta deadlines, **microservice** arkitektur och ett bolag som växte mycket kraftigt och i ständig förändring där man måste vara beredd att ta sig an nya problem.
       
       - layout: left
         title: SKL - patientenkät
