@@ -73,7 +73,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Ett system byggt i <mark>Django</mark> med <mark>React</mark> där användare specificerar uppvärmingsystem, systemet kan då räkna ut vilka inställningar man ska ha på sina radiatorer för att på så sätt optimera uppvärmingen i huset. Några spännande utmaningar med detta var att få ett såpass tekniskt avancerat verktyg bli användarvänligt samt att optimera beräkningarna.
 
-  - title: Uppdrag # Title for the section
+  - title: Erfarenhet # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -86,32 +86,37 @@ content:
           Platform för att hitta passande lån åt kunder med så bra villkor som möligt
         description: | # this will include new lines to allow paragraphs
             Primärt <mark>PHP</mark> och <mark>JavaScript</mark>, en del <mark>GoLang</mark> där jag byggde, designade och underhöll små och stora system i hela stacken
+      
+      - layout: left
+        title: Redpill Linpro
+        link: redpill-linpro.com
+        sub_title: Utvecklare
+        caption: 2011 - 2019
+        quote: >
+          Konsult inom PHP, JavaScript, Java, Python
+        description: |
+          Mycket varierande uppdrag, ofta nära slutanvändare och samarbete med externa projektledare eller leda projekt själv. Både anpassning av färdiga lösningar, bygga moduler i befintliga system samt bygga egenanpassade system för kunden specifika önskemål
 
-  - title: Education # Title for the section
+  - title: Utbildning # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: Blekninge Tekniska Högskola
         caption: 2010 - 2013
-        sub_title: BSc Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Kandidatexamen
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Mediakommuniaktion med inriktning mot interaktiva system
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Lite mer om mig
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    content: |
+      Det kan vara svårt att få mig tyst gällande
+      - Byggnadsvård
+      - Ölbryggning
+      - Renovering
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
