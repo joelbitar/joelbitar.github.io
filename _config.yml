@@ -76,7 +76,7 @@ content:
 
       - layout: left
         title: Divido
-        sub_title: Fintech
+        sub_title: Finansteknologi
         link: divido.com
         # link_text: boringcompany.com
         caption: 2019 - 2021
@@ -86,15 +86,25 @@ content:
           Primärt <mark>PHP</mark> och <mark>JavaScript</mark>, en del <mark>GoLang</mark> där jag byggde, designade och underhöll små och stora system i hela stacken. Många tajta deadlines, mikroservice arkitektur och ett bolag som växte mycket kraftigt och i ständig förändring där man måste städigt vara beredd att ta sig an nya problem.
       
       - layout: left
-        title: Redpill Linpro
-        link: redpill-linpro.com
-        sub_title: Utvecklare
-        caption: 2011 - 2019
-        quote: >
-          Konsult inom PHP, JavaScript, Java, Python
+        title: SKL - patientenkät
+        link: patientenkat.se
+        sub_title: Statistik och visualisering
+        caption: 2015 - 2019
         description: |
-          Mycket varierande uppdrag, ofta nära slutanvändare och samarbete med externa projektledare eller leda projekt själv. Både anpassning av färdiga lösningar, bygga moduler i befintliga system samt bygga egenanpassade system för kunden specifika önskemål
-          
+          System för att lagra och visualisera statistik
+
+          På patientenkat.se lagras alla svar som fås in via kundnöjdhet i vården, stora datamängder och komplexa statistiska uträkningar ska visas upp på ett för allmänheten lättförståligt och enkelt sätt, samtidigt som att de som jobbar på enheterna ska kunna ta del av och ha nytta av statistiken, jämföra mellan mätningar. Intressanta utmaningar i att utforma gränssnitt på så vis att alla målgrupper blir nöjda.
+
+      - layout: left
+        title: STIM
+        sub_title: Klirr
+        caption: 2015 - 2019
+        description: |
+          Hantera spelad musik och katalogisera detta
+
+          Hjälpsystem för att hantera all musik som rapporteras in till STIM, vilka artister som är knutna till vilka verk så att, byggdes med hjälp av **Sugar CRM** där stora anpassningar gjordes både i frontend med **JavaScript** och i backend med **PHP**
+
+
 # Footer
 footer_show_references: true
 references_title: Referenser lämnas ut på begäran
