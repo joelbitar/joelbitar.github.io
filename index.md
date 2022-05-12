@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 ---
 
 Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
