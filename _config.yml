@@ -94,31 +94,10 @@ content:
           Konsult inom PHP, JavaScript, Java, Python
         description: |
           Mycket varierande uppdrag, ofta nära slutanvändare och samarbete med externa projektledare eller leda projekt själv. Både anpassning av färdiga lösningar, bygga moduler i befintliga system samt bygga egenanpassade system för kunden specifika önskemål
-
-  - title: Utbildning # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Blekninge Tekniska Högskola
-        caption: 2010 - 2013
-        quote: >
-          Kandidatexamen
-        description: | # this will include new lines to allow paragraphs
-          Mediakommuniaktion med inriktning mot interaktiva system
-
-  - title: Lite mer om mig
-    layout: text
-    content: |
-      Det kan vara svårt att få mig tyst gällande
-      - Byggnadsvård
-      - Ölbryggning
-      - Renovering
-
-      #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+          
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Referenser lämnas ut på begäran
 
 # Build settings
 remote_theme: sproogen/resume-theme
