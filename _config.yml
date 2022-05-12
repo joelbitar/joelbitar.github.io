@@ -49,14 +49,17 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Jag har sysslat med IT och webbutveckling i hela mitt yrkelsiv. Jag tycker om att hitta bra lösningar på svåra problem. Jag har jobbat med allt från projektledning, arkitektur, drift och framför allt utveckling där jag rör mig mellan både backend och frontend.
 
-  #  Om katten själv får välja blir det: <mark>Docker</mark> -> <mark>Django</mark> -> <mark>REST</mark> -> <mark>React</mark>
+
+# Om katten själv får välja blir det: <mark>Docker</mark> -> <mark>Django</mark> -> <mark>REST</mark> -> <mark>React</mark>
 
 content:
   - title: Projekt # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: DRP 
+        sub_title: Värmeoptimering
+        caption: 2019 - 2021
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -66,24 +69,21 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Webbaserat system för att modelera och räkna på rörsystem för radiatorer
         description: | # this will include new lines to allow paragraphs
+          Webbaserat system för att modelera och räkna på rörsystem för radiatorer
+          
           Ett system byggt i <mark>Django</mark> med <mark>React</mark> där användare specificerar uppvärmingsystem, systemet kan då räkna ut vilka inställningar man ska ha på sina radiatorer för att på så sätt optimera uppvärmingen i huset. Några spännande utmaningar med detta var att få ett såpass tekniskt avancerat verktyg bli användarvänligt samt att optimera beräkningarna.
 
-  - title: Erfarenhet # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Divido
+        sub_title: Fintech
         link: divido.com
         # link_text: boringcompany.com
-        sub_title: Senior Developer
         caption: 2019 - 2021
-        quote: >
-          Platform för att hitta passande lån åt kunder med så bra villkor som möligt
         description: | # this will include new lines to allow paragraphs
-            Primärt <mark>PHP</mark> och <mark>JavaScript</mark>, en del <mark>GoLang</mark> där jag byggde, designade och underhöll små och stora system i hela stacken
+          Platform för att hitta passande lån åt kunder med så bra villkor som möligt
+
+          Primärt <mark>PHP</mark> och <mark>JavaScript</mark>, en del <mark>GoLang</mark> där jag byggde, designade och underhöll små och stora system i hela stacken
       
       - layout: left
         title: Redpill Linpro
