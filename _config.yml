@@ -83,7 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Platform för att hitta passande lån åt kunder med så bra villkor som möligt
 
-          Primärt <mark>PHP</mark> och <mark>JavaScript</mark>, en del <mark>GoLang</mark> där jag byggde, designade och underhöll små och stora system i hela stacken. Många tajta deadlines, mikroservice arkitektur och ett bolag som växte mycket kraftigt och i ständig förändring där man måste städigt vara beredd att ta sig an nya problem.
+          Primärt **PHP** och **JavaScript**, en del **GoLang** där jag byggde, designade och underhöll små och stora system i hela stacken. Många tajta deadlines, **microservice** arkitektur och ett bolag som växte mycket kraftigt och i ständig förändring där man måste städigt vara beredd att ta sig an nya problem.
       
       - layout: left
         title: SKL - patientenkät
@@ -94,6 +94,17 @@ content:
           System för att lagra och visualisera statistik
 
           På patientenkat.se lagras alla svar som fås in via kundnöjdhet i vården, stora datamängder och komplexa statistiska uträkningar ska visas upp på ett för allmänheten lättförståligt och enkelt sätt, samtidigt som att de som jobbar på enheterna ska kunna ta del av och ha nytta av statistiken, jämföra mellan mätningar. Intressanta utmaningar i att utforma gränssnitt på så vis att alla målgrupper blir nöjda.
+     
+      - layout: left
+        title: SKL - rutinkollen
+        link: rutinkollen.se
+        sub_title: Kvalitetskontroll i vården
+        caption: 2014 - 2019
+        description: |
+          Kvalitetssäkring och uppföljning
+
+          Verktyg för medarbetera på vårdenheter att granska journaler och följa upp hur väl de följer rutiner, detta för att säkerställa bra och jämn kvalietet i vården, enkelt och litet verktyg där fokus var på att det skulle vara lätt och snabbt för användarna att arbeta i och så återkoppling och jämföra med tidigare uppföljningar för att se hur enheterna förhoppningsvis förbättrar sig över tid
+
 
       - layout: left
         title: STIM
