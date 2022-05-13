@@ -9,7 +9,7 @@ version: 2
 name: Joel Shapiro
 title: Utvecklare, arkitekt
 email: joel@shapiro.se
-website: joelbitar.se
+website: joelshapiro.se
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,9 +48,9 @@ about_title: Profil
 about_profile_image: images/profile_joel.png
 about_content: | # this will include new lines to allow paragraphs
   Jag har sysslat med IT och webbutveckling i hela mitt yrkelsiv. Jag tycker om att hitta lösningar på svåra problem. Jag har jobbat med allt från projektledning, arkitektur, drift och framför allt utveckling där jag rör mig mellan både backend och frontend.
+  Tycker att det är roligt att jobba drivet av slutanvändarens behov, även när man tänker på hur backend coh APIer fungerar.
   
-  Trivs bra med både <mark>frontend</mark> och <mark>backend</mark> och är väl bekant med <mark>Docker</mark>, <mark>Python</mark>, <mark>Django</mark>, <mark>PHP</mark>, <mark>JavaScript</mark> och <mark>React</mark>
-
+  Trivs bra med både <mark>frontend</mark> och <mark>backend</mark>. Är väl bekant med <mark>Docker</mark>, <mark>Python</mark>, <mark>Django</mark>, <mark>PHP</mark>, <mark>JavaScript</mark> och <mark>React</mark>.
 
 # Om katten själv får välja blir det: <mark>Docker</mark> -> <mark>Django</mark> -> <mark>REST</mark> -> <mark>React</mark>
 
