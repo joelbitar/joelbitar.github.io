@@ -16,12 +16,12 @@ darkmode: false
 
 # Social links
 github_username: joelbitar
-# stackoverflow_username: "00000001"
+stackoverflow_username: "247004"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+linkedin_username: joel-shapiro-49003b14/
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -111,7 +111,7 @@ content:
         description: |
           Mobilanpassningar av intranät
 
-          Anpassningar för att ett intranät byggt på *Drupal* skulle fungera lika väl i mobiltelefon som på stora skärmar, viss anpassning av *Drupal* genom moduler.
+          Anpassningar för att ett intranät byggt på **Drupal** skulle fungera lika väl i mobiltelefon som på stora skärmar, viss anpassning av *Drupal* genom moduler.
      
           
       - layout: left
@@ -134,7 +134,13 @@ content:
           Hjälpsystem för att hantera all musik som rapporteras in till STIM, vilka artister som är knutna till vilka verk så att, byggdes med hjälp av **Sugar CRM** där stora anpassningar gjordes både i frontend med **JavaScript** och i backend med **PHP**
 
 
-
+   - title: Utbildning
+     layout: text
+     content:
+        description: |
+          Blekinge tekniska högskola, kandiatexamen. Webbutveckling med inrikting mot interaktiva system
+        
+        
 # Footer
 #
 footer_show_references: true
