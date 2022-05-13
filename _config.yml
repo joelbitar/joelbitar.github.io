@@ -45,7 +45,7 @@ github_username: joelbitar
 
 # About Section
 about_title: Profil 
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_joel.jpg
 about_content: | # this will include new lines to allow paragraphs
   Jag har sysslat med IT och webbutveckling i hela mitt yrkelsiv. Jag tycker om att hitta bra lösningar på svåra problem. Jag har jobbat med allt från projektledning, arkitektur, drift och framför allt utveckling där jag rör mig mellan både backend och frontend.
 
