@@ -134,11 +134,11 @@ content:
           Hjälpsystem för att hantera all musik som rapporteras in till STIM, vilka artister som är knutna till vilka verk så att, byggdes med hjälp av **Sugar CRM** där stora anpassningar gjordes både i frontend med **JavaScript** och i backend med **PHP**
 
 
-   - title: Utbildning
-     layout: text
-     content:
-        description: |
-          Blekinge tekniska högskola, kandiatexamen. Webbutveckling med inrikting mot interaktiva system
+  - title: Utbildning
+    layout: text
+    content:
+       description: |
+         Blekinge tekniska högskola, kandiatexamen. Webbutveckling med inrikting mot interaktiva system
         
         
 # Footer
