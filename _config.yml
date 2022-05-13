@@ -136,9 +136,8 @@ content:
 
   - title: Utbildning
     layout: text
-    content:
-       description: |
-         Blekinge tekniska högskola, kandiatexamen. Webbutveckling med inrikting mot interaktiva system
+    content: |
+      Blekinge tekniska högskola, kandiatexamen. Webbutveckling med inrikting mot interaktiva system
         
         
 # Footer
