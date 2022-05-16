@@ -124,16 +124,34 @@ content:
           Kvalitetssäkring och uppföljning
 
           Verktyg för medarbetera på vårdenheter att granska journaler och följa upp hur väl de följer rutiner, detta för att säkerställa bra och jämn kvalietet i vården, enkelt och litet verktyg där fokus var på att det skulle vara lätt och snabbt för användarna att arbeta i och så återkoppling och jämföra med tidigare uppföljningar för att se hur enheterna förhoppningsvis förbättrar sig över tid
-
+          
+      - layout: left
+        title: Alingsås kommun
+        sub_title: Anpassningar av intranät
+        caption: 2015 - 2017
+        description: |
+          Anpassningar av intranät i Drupal
+          
+          Bygge och underhåll av egenutvecklade moduler för del av de intranät Alingsås kommuun använder samt uppgraderingar av Drupal
+          
+          
       - layout: left
         title: STIM
-        sub_title: Klirr
+        sub_title: CRM system
         caption: 2011 - 2014
         description: |
           Hantera svensk spelad musik, artister och verk
 
           Hjälpsystem för att hantera all musik som rapporteras in till STIM, vilka artister som är knutna till vilka verk så att, byggdes med hjälp av **Sugar CRM** där stora anpassningar gjordes både i frontend med **JavaScript** och i backend med **PHP**
 
+      - layout: left
+        title: MediaAnalys
+        sub_title: Distribuerat CMS
+        caption: 2011 - 2014
+        description: |
+          Wordpress kompatibelt distribuerat CMS
+          
+          Automatiskt och system för styrning av ett enkelt CMS vars teman var kompatibla med Wordpress
 
   - title: Utbildning
     layout: text
