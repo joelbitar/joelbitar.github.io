@@ -206,6 +206,13 @@ content:
 
           Hjälpsystem för att hantera all musik som rapporteras in till STIM, vilka artister som är knutna till vilka verk så att, byggdes med hjälp av **Sugar CRM** där stora anpassningar gjordes både i frontend med **JavaScript** och i backend med **PHP**
 
+      - layout: right
+        title: Redpill Linpro
+        sub_title: IT Konsult
+        caption: 2011 - 2019
+        description: |
+          Specialiserad på PHP/JavaScript och till viss del Python och Java. Arbetade
+
       - layout: left
         title: MediaAnalys
         sub_title: Distribuerat CMS
