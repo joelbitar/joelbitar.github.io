@@ -213,7 +213,14 @@ content:
         description: |
           Wordpress kompatibelt distribuerat CMS
           
-          Automatiskt och system för styrning av ett enkelt CMS som var kompatibel med teman från wordpress
+          Automatiskt och system för styrning av ett enkelt CMS som var kompatibel med teman från wordpress, centralt administreat för uppdatering av hundratals bloggar.
+
+      - layout: left
+        title: Vikarien.se
+        sub_title: Modernisering och nyutveckling
+        caption: 2009 - 2009
+        description: |
+          Kryptering av användardata, modernisering och utveckling av nya funktioner för användare i ett egenbyggt PHP/jQuery system.
 
   - title: Utbildning
     layout: text
