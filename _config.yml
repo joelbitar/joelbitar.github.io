@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Trivs bra med både <mark>frontend</mark> och <mark>backend</mark>. Är väl bekant med <mark>Docker</mark>, <mark>Python</mark>, <mark>Django</mark>, <mark>PHP</mark>, <mark>JavaScript</mark> och <mark>React</mark>.
   
-  Sedan 2021 har jag drivit ett eget bolag där jag erbjuder tjänster som IT konsult.
+  Sedan 2021 har jag drivit ett eget bolag där jag erbjuder tjänster som IT konsult där jag levererar specialbyggda system, anpassningar, integrationer och rådgivning.
 
 content:
   - title: Projekt # Title for the section
@@ -68,7 +68,7 @@ content:
         #  - title:  sproogen/modern-resume-theme
         description:
 
-          Tekniskt drivande och utveckling av internt verktyg för beräkning av matprodukter, utvecklat **REST** tjänster och beräknigsmodeller som passar in IKEAs stora IT landskap. Tungt fokus på teknisk projektledning, integration med andra system.
+          Tekniskt drivande och utveckling av internt verktyg för beräkning av matprodukter, utvecklat **REST** tjänster och beräknigsmodeller som passar in IKEAs stora IT landskap. Tungt fokus på teknisk projektledning, integration med andra system såväl som driftsättning och underhåll.
 
       - layout: left
         title: IKEA
@@ -80,7 +80,8 @@ content:
         #  - title:  sproogen/modern-resume-theme
         description:
 
-          Tagit fram verktyg och processer för att följa upp interna verktyg. Byggt mjukvara som användarstöd kring automatisering av utskick, datainsamlig och kommunikation. Projektet omfattade både projektledning, arkitektur och utveckling och kontakt med många olika intressenter inom IKEA.
+          Tagit fram verktyg och processer för att följa upp interna verktyg. Byggt mjukvara som användarstöd kring automatisering av utskick, datainsamlig och kommunikation. Projektet omfattade både projektledning, arkitektur och utveckling och kontakt med många olika intressenter inom IKEA för att skapa en
+          förståelse för hur dataflöden inom IKEA fungerade, var problem kunde uppstå när data förändras och vilka system och lösningar som påverkades av dataförändringar.
 
       - layout: left
         title: Whitespace
