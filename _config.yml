@@ -61,7 +61,7 @@ content:
       - layout: left
         title: Empori
         sub_title: Utveckling, arkitektur och devops
-        caption: 2024 - 2024
+        caption: 2025 -
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -69,6 +69,7 @@ content:
         description:
 
           Utveckling och underhåll **Django**-baserat SAAS e-handel och **Python**-baserade system med en frontend i **React** och **TypeScript**. Utveckling av REST API:er och integration med externa tjänster som betaltjänster, frakttjänster och PIM.
+          Driftsatt med **Docker** och **Kubernetes** i **Google Cloud** och **AWS**. Utöver utveckling av **CI/CD** och **DevOps**-processer är det även en stor fokus på arbete för at frjämja **säkerhet** och **stabilitet**.
 
       - layout: left
         title: IKEA
