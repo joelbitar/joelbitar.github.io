@@ -59,6 +59,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Empori
+        sub_title: Utveckling, arkitektur och devops
+        caption: 2024 - 2024
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        description:
+
+          Utveckling och underhåll **Django**-baserat SAAS e-handel och **Python**-baserade system med en frontend i **React** och **TypeScript**. Utveckling av REST API:er och integration med externa tjänster som betaltjänster, frakttjänster och PIM.
+
+      - layout: left
         title: IKEA
         sub_title: Utveckling och arkitektur
         caption: 2024 - 2024
@@ -68,7 +80,7 @@ content:
         #  - title:  sproogen/modern-resume-theme
         description:
 
-          Tekniskt drivande och utveckling av internt verktyg för beräkning av matprodukter, utvecklat **REST** tjänster och beräknigsmodeller som passar in IKEAs stora IT landskap. Tungt fokus på teknisk projektledning, integration med andra system såväl som driftsättning och underhåll.
+          Tekniskt drivande och utveckling av internt verktyg för beräkning av matprodukter skrivet i **Django** med frontend i **React**, utvecklat **REST** tjänster och beräknigsmodeller som passar in IKEAs stora IT landskap. Tungt fokus på teknisk projektledning, integration med andra system såväl som driftsättning och underhåll.
 
       - layout: left
         title: IKEA
@@ -80,7 +92,7 @@ content:
         #  - title:  sproogen/modern-resume-theme
         description:
 
-          Tagit fram verktyg och processer för att följa upp interna verktyg. Byggt mjukvara som användarstöd kring automatisering av utskick, datainsamlig och kommunikation. Projektet omfattade både projektledning, arkitektur och utveckling och kontakt med många olika intressenter inom IKEA för att skapa en
+          Tagit fram verktyg och processer för att följa upp interna verktyg i **Django** och **Pytyhon**. Byggt mjukvara som användarstöd kring automatisering av utskick, datainsamlig och kommunikation. Projektet omfattade både projektledning, arkitektur och utveckling och kontakt med många olika intressenter inom IKEA för att skapa en
           förståelse för hur dataflöden inom IKEA fungerade, var problem kunde uppstå när data förändras och vilka system och lösningar som påverkades av dataförändringar.
 
       - layout: left
@@ -99,7 +111,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Konfiguation av ansible för att driftsätta och underhålla system samt utveckling och buggfix av existerande lösningar. 
           
-          Utveckling av konfigurationer för **Anisble** med målet att strömlinjeforma och automatisera driftsättning och underhåll av system. Utveckling, felsöknigar mestadels i **PHP**-baserade system, bland annat **WordPress** och **Matomo**.
+          Utveckling av konfigurationer för **Anisble** med målet att strömlinjeforma och automatisera driftsättning och underhåll av system. Utveckling, felsöknigar mestadels i **PHP**-baserade system, bland annat **WordPress** och **Matomo**. Utvecklande och förbättringar av interna verktyg i framföralt **Python** och **bash**
 
       - layout: left
         title: IKEA Food
@@ -117,7 +129,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           System för att utvärdera och ta fram rätter samt produkter ut olika hållbarhetsaspekter
           
-          Utveckling av en **prototyp** för att räkna på nutritionsvärden för matprdukter samt hållbarhetsfaktorer för att kunna styra och ta beslut kring hur man ska utveckla produkter. Projeket innefattade att ta fram en **API** för att kunna räkna på produkterna, en **frontend** för att kunna se och jämföra produkterna samt en **backend** för att lagra och räkna på produkterna.
+          Utveckling av en **prototyp** för att räkna på nutritionsvärden för matprdukter samt hållbarhetsfaktorer för att kunna styra och ta beslut kring hur man ska utveckla produkter. Projeket innefattade att ta fram en **API** i **Django**, en **frontend** skriven i **React** för att kunna se och jämföra produkterna samt algoritmer implementerade i **Pytyhon** för att räkna på produkterna.
 
       - layout: left
         title: Assemblin
